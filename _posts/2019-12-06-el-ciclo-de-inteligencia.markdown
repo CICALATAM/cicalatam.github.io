@@ -5,7 +5,7 @@ subtitle:   "Planificación. Recolección. Procesamiento. Análisis. Diseminaci�
 date:       2019-12-16 12:00:00
 author:     "Valentina Palacin"
 header-img: "img/post_head.jpg"
-categories: jekyll
+categories: Ciberinteligencia
 ---
 
 <p>Queremos mostrar la relación entre los datos, los conocimientos y la práctica de inteligencia a través de lo que se conoce como una pirámide del conocimiento. En ella podemos ver como los hechos, a través de la medición, se transforman en datos de los que extraemos información al procesarlos y que al analizarlos en conjunto transformamos en conocimiento. Dicho conocimiento interactúa con nuestras propia experiencia y forma las bases de lo que denominamos como sabiduría. Es esta sabiduría última en la que nos apoyamos para la toma de decisiones.</p>

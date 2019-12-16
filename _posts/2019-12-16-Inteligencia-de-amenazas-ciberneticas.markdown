@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Inteligencia de Amenazas Cibernéticas (Cyber Threat Intelligence)"
+title:      "Inteligencia de Amenazas Cibernéticas (Ciberinteligencia)"
 subtitle:   ""
 date:       2019-12-16 12:00:00
 author:     "Valentina Palacin"
 header-img: "img/post_head.jpg"
-categories: jekyll
+categories: Ciberinteligencia
 ---
 
 <blockquote>

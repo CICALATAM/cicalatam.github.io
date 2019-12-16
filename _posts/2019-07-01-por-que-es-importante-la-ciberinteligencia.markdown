@@ -2,9 +2,9 @@
 layout:     post
 title:      "Por que es importante la Ciberinteligencia?"
 date:       2019-07-01 12:00:00
-author:     "CICA"
+author:     "Valentina Palacin"
 header-img: "img/post_head.jpg"
-categories: Start Bootstrap
+categories: Ciberinteligencia
 ---
 
 <h2 class="section-heading">La importancia de la ciberinteligencia para las empresas</h2>
