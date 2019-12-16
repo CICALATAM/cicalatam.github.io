@@ -4,7 +4,7 @@ title:      "Que es la Caza de Amenazas (Threat Hunting)?"
 subtitle:   ""
 date:       2016-12-16 12:00:00
 author:     "CICA"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/post_head.jpg"
 categories: jekyll
 ---
 

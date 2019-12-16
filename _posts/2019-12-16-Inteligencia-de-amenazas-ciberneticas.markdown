@@ -4,7 +4,7 @@ title:      "Inteligencia de Amenazas Cibernéticas (Cyber Threat Intelligence)"
 subtitle:   ""
 date:       2019-12-16 12:00:00
 author:     "Valentina Palacin"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/post_head.jpg"
 categories: jekyll
 ---
 

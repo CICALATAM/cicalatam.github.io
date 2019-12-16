@@ -4,7 +4,7 @@ title:      "Las Reglas de Yara"
 subtitle:   ""
 date:       2019-12-16 12:00:00
 author:     "CICA"
-header-img: "img/post-bg-04.jpg"
+header-img: "img/post_head.jpg"
 categories: webmarketing
 ---
 

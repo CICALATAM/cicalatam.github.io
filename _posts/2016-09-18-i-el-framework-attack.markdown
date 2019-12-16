@@ -3,7 +3,7 @@ layout:     post
 title:      "El framework ATT&CK"
 date:       2016-12-16 12:00:00
 author:     "CICA"
-header-img: "img/post-bg-05.jpg"
+header-img: "img/post_head.jpg"
 categories: jekyll
 ---
 

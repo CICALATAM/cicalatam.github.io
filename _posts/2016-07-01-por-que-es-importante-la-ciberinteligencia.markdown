@@ -3,7 +3,7 @@ layout:     post
 title:      "Por que es importante la Ciberinteligencia?"
 date:       2019-07-01 12:00:00
 author:     "CICA"
-header-img: "img/post-bg-02.jpg"
+header-img: "img/post_head.jpg"
 categories: Start Bootstrap
 ---
 

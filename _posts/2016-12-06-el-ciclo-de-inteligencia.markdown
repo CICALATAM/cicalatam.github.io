@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "El ciclo de inteligencia"
-subtitle:   "Many say exploration is part of our destiny, but it’s actually our duty to future generations."
+subtitle:   "Planificación. Recolección. Procesamiento. Análisis. Diseminación. Evaluación"
 date:       2019-12-16 12:00:00
 author:     "Valentina Palacin"
-header-img: "img/post-bg-03.jpg"
+header-img: "img/post_head.jpg"
 categories: jekyll
 ---
 
