@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
-subtitle:   "Problems look mighty small from 150 miles up"
-date:       2016-09-24 12:00:00
-author:     "Antonio Trento"
+title:      "Que es la Caza de Amenazas (Threat Hunting)?"
+subtitle:   ""
+date:       2016-12-16 12:00:00
+author:     "CICA"
 header-img: "img/post-bg-06.jpg"
 categories: jekyll
 ---

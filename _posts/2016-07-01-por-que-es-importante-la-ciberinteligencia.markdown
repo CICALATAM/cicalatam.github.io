@@ -1,12 +1,13 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
-date:       2016-06-10 12:00:00
-author:     "Antonio Trento"
-header-img: "img/post-bg-01.jpg"
-categories: jekyll
+title:      "Por que es importante la Ciberinteligencia?"
+date:       2019-07-01 12:00:00
+author:     "CICA"
+header-img: "img/post-bg-02.jpg"
+categories: Start Bootstrap
 ---
+
+<h2 class="section-heading">La importancia de la ciberinteligencia para las empresas</h2>
 
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 
@@ -18,7 +19,7 @@ categories: jekyll
 
 <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
 
-<h2 class="section-heading">The Final Frontier</h2>
+<h2 class="section-heading">Beneficios</h2>
 
 <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
 
