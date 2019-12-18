@@ -4,7 +4,7 @@ email: contacto@cicalatam.com
 description: Comunidad Latinoamericana de Ciberinteligencia y Caza de Amenazas
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "https://jekynewage.github.io" # the base hostname & protocol for your site
+url: "https://cicalatam.github.io" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 
@@ -19,7 +19,7 @@ disqus_account:
 social:
   - title: twitter
     url: https://twitter.com/cicalatam
-  - title: facebook
+  - title: instagram
     url: https://instagram.com/cicalatam
   - title: linkedin
     url: https://linkedin.com/cicalatam
